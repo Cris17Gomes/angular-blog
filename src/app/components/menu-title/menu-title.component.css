@@ -1,6 +1,6 @@
 .container__menu-title {
   color: #fff;
-} 
+}
 .container__menu-title > h1 {
   margin-top: 15px;
   margin-bottom: 15px;
@@ -12,4 +12,10 @@
 .container__menu-title > hr {
     margin-top: 10px;
     margin-bottom: 15px;
+  }
+
+  .container__menu-title > h1 > img {
+    width: 98%;
+    height: 390px;
+    margin-right: 10px;
   }
